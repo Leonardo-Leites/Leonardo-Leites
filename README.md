@@ -1,4 +1,8 @@
-# OI 🐱
+# Olá 🐱
+
+<div>
+   <img align="right" alt="Leo-COFFEE-STICKER" height="50" width="60" src="https://media2.giphy.com/media/utfeiHQ7CcpyRtXla6/giphy.gif?cid=ecf05e47lzvdv7t57n50a8c6ihu996jj9f7l8bxp438ozosb&rid=giphy.gif&ct=s">
+</div>
 
 - 🎓 Estudante de Ciência da Computação - UFRGS
 - 💻 Trabalhando com manutenção e aspirante a programador
@@ -6,11 +10,12 @@
 - 🔭 Gosto de ler sobre Astronomia
 - 📫 Email: leoleites2002@gmail.com 
 - 😄 Pronomes: ele/dele
+  
 ##
 <div align="center">
   <a href="https://github.com/Leonardo-Leites">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Leites&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Leites&layout=compact&langs_count=7&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Leites&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ##
