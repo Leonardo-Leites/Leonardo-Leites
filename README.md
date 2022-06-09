@@ -5,8 +5,8 @@
 </div>
 
 - 🎓 Estudante de Ciência da Computação - UFRGS
-- 💻 Trabalhando com manutenção e aspirante a programador
-- 📚 Aprendendo JavaScript, Typescript, React e outras coisinhas mais
+- 💻 Trabalhando com manutenção e programação 
+- 📚 Aprendendo C, React e outras coisinhas mais
 - 🔭 Gosto de ler sobre Astronomia
 - 📫 Email: leoleites2002@gmail.com 
 - 😄 Pronomes: ele/dele
