@@ -8,7 +8,7 @@
 - 💻 Trabalhando com manutenção e programação 
 - 📚 Aprendendo C, React e outras coisinhas mais
 - 🔭 Gosto de ler sobre Astronomia
-- 📫 Email: leoleites2002@gmail.com 
+- 📫 Email: leonardo.leites@inf.ufrgs.br 
 - 😄 Pronomes: ele/dele
   
 ##
