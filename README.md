@@ -4,8 +4,8 @@
    <img align="right" alt="Leo-COFFEE-STICKER" height="50" width="60" src="https://media2.giphy.com/media/utfeiHQ7CcpyRtXla6/giphy.gif?cid=ecf05e47lzvdv7t57n50a8c6ihu996jj9f7l8bxp438ozosb&rid=giphy.gif&ct=s">
 </div>
 
-- 🎓 Estudante de Ciência da Computação - UFRGS
-- 💻 Trabalhando com manutenção e programação 
+- 🎓 Estudante de Ciência da Computação na UFRGS / Computer Science student at UFRGS
+- 💻 Trabalhando com manutenção e programação / 
 - 📚 Aprendendo C, React e outras coisinhas mais
 - 🔭 Gosto de ler sobre Astronomia
 - 📫 Email: leonardo.leites@inf.ufrgs.br 
