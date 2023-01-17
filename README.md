@@ -1,40 +1,18 @@
-# Hi 🐱
+# 💫 About Me:
+🎓 Computer Science student at UFRGS<br>💻 Working with maintenance and programming<br>📚 Learning C, React and a little bit more<br>🔭 I like astronomy<br>📫 Email: leonardo.leites@inf.ufrgs.br<br>😄 Pronouns: he/him<br>
 
-<div>
-   <img align="right" alt="Leo-COFFEE-STICKER" height="50" width="60" src="https://media2.giphy.com/media/utfeiHQ7CcpyRtXla6/giphy.gif?cid=ecf05e47lzvdv7t57n50a8c6ihu996jj9f7l8bxp438ozosb&rid=giphy.gif&ct=s">
-</div>
 
-- 🎓 Computer Science student at UFRGS
-- 💻 Working with maintenance and programming 
-- 📚 Learning C, React and a little bit more
-- 🔭 I like astronomy
-- 📫 Email: leonardo.leites@inf.ufrgs.br 
-- 😄 Pronouns: he/him
-  
-##
-<!-- <div align="center">
-  <a href="https://github.com/Leonardo-Leites">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Leites&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Leites&layout=compact&langs_count=7&theme=dark"/>
-</div> -->
-  
-##
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Leo-J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Leo-J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-## 
-  
-<div> 
-  <a href="https://www.instagram.com/leoleites_bx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://twitter.com/LeoLeites_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  	<a href="https://www.linkedin.com/in/leonardo-leites-95a716215/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/leoleites_bx/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/leonardo-leites-95a716215/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/LeoLeites_) 
 
- <!-- ![Snake animation](https://github.com/Leonardo-Leites/Leonardo-Leites/blob/output/github-contribution-grid-snake.svg) -->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Leonardo-Leites&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+<!-- [](https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Leites&theme=dark&hide_border=false)<br/> -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Leites&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Leonardo-Leites&icon=2&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
