@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Computer Science student at UFRGS<br>💻 Working with maintenance and programming<br>📚 Learning C, React and a little bit more<br>🔭 I like astronomy<br>📫 Email: leonardo.leites@inf.ufrgs.br<br>😄 Pronouns: he/him<br>
+🎓 Computer Science student at UFRGS<br>💻 Working with maintenance and programming<br>📚 Learning C, Python, React and a little bit more<br>🔭 I like astronomy<br>📫 Email: leonardo.leites@inf.ufrgs.br<br>😄 Pronouns: he/him<br>
 
 
 ## 🌐 Socials:
